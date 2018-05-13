@@ -14,3 +14,6 @@ excute chmod 777 reg_prod.sh, and register your bp using script: ./reg_prod.sh <
 for example:   
 ./reg_prod.sh eosiosg EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV http://eosio.sg
 ```
+![avata](https://github.com/eosiosg/Vote-testnet/blob/master/image/1.png)
+
+![avata](https://github.com/eosiosg/Vote-testnet/blob/master/image/2.png)
